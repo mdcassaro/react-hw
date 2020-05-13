@@ -4,9 +4,6 @@ import "./style.css";
 function EmployeeCard(props) {
   return (
     <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
-      </div>
       <div className="content">
         <ul>
           <li>
@@ -20,7 +17,7 @@ function EmployeeCard(props) {
           </li>
         </ul>
       </div>
-      <span onClick={() => props.removeFriend(props.id)} className="remove">
+      <span onClick={() => props.removeEmployee(props.id)} className="remove">
         𝘅
       </span>
     </div>
