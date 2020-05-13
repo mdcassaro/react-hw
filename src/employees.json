@@ -3,36 +3,36 @@
         "id": 1,
         "name": "Doug Stevens",
         "occupation": "Manager",
-        "location": "A Pineapple Under the Sea"
+        "email": "doug@gmail.com"
       },
       {
         "id": 2,
         "name": "Bob Jones",
         "occupation": "Engineer",
-        "location": "A Pineapple Under the Sea"
+        "email": "bob@gmail.com"
       },
       {
         "id": 3,
         "name": "Gary Clark",
         "occupation": "Engineer",
-        "location": "A Pineapple Under the Sea"
+        "email": "gary@gmail.com"
       },
       {
         "id": 4,
         "name": "Harry Steves",
         "occupation": "Chef",
-        "location": "A Pineapple Under the Sea"
+        "email": "harry@gmail.com"
       },
       {
         "id": 5,
         "name": "Jeff Close",
         "occupation": "Intern",
-        "location": "A Pineapple Under the Sea"
+        "email": "jeff@gmail.com"
       },
       {
         "id": 6,
         "name": "Mick Jagger",
         "occupation": "Singer",
-        "location": "A Pineapple Under the Sea"
+        "email": "mick@gmail.com"
       }
 ]
