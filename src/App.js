@@ -18,7 +18,7 @@ class App extends Component {
     this.setState({ employees });
   };
 
-  sortEmployees = (name) =>{
+  sortEmployees = name =>{
     const sortedEmployees = this.state.employees.filter(employee => employee.name);
     this.setState({ sortedEmployees })
   }
